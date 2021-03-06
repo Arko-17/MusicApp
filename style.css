@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+.speed_div{
+    float: left;
+}
+.vol_div{
+    float: right;
+}
+.disk{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+#vol{
+    font-size: 23px;
+    margin: 15px;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px dashed lawngreen;
+    border-radius: 20px;
+    margin-top: 100;
+}
